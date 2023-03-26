@@ -1,24 +1,6 @@
 view App
 Hoisting url:https://react-tooltip-e1fdf.web.app/
 
-
-![Screenshot (589)](https://user-images.githubusercontent.com/113850768/226015351-13bb45b8-866f-45f2-8bf9-82ec2c2934f1.png)
-
-
-![Screenshot (590)](https://user-images.githubusercontent.com/113850768/226015541-3dac15df-4e8d-4a35-a1d9-249ee7f4a48a.png)
-
-
-
-![Screenshot (591)](https://user-images.githubusercontent.com/113850768/226015572-f40b0235-d7a9-4876-8706-4bc71b03c716.png)
-
-
-![Screenshot (592)](https://user-images.githubusercontent.com/113850768/226015612-aec06561-7f67-4af0-a48c-0b79d4a02902.png)
-
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
 
 In the project directory, you can run:
