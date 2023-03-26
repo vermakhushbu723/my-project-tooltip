@@ -1,5 +1,5 @@
 view App
-Hoisting url:https://react-tooltip-e1fdf.web.app/
+Hoisting url:https://glittery-platypus-9b60f7.netlify.app/
 
 ## Available Scripts
 
